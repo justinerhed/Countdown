@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(34, 187, 187);
+  color: white;
+}
+
+.text {
+  font-size: 5em;
+  font-family: sans-serif;
+  margin-left: 120px;
+  margin-bottom: 50px;
+}
+
+.countdown-container {
+  height: 200px;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 7em;
+  margin-left: 311px;
+}
+span {
+  font-size: 50px;
+}
